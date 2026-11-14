@@ -1,0 +1,8 @@
+{
+  "id": "worktree-names",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.15.0"
+  },
+  "name": "Worktree names"
+}
